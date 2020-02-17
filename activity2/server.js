@@ -1,5 +1,4 @@
 import express from 'express';
-import connectDatabse from './config/db'
 import connectDatabase from './config/db';
 
 //  init express server
